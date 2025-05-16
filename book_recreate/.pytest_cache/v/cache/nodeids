@@ -1,0 +1,14 @@
+[
+  "test_app/test_book.py::test_add_book",
+  "test_app/test_book.py::test_delete_book",
+  "test_app/test_book.py::test_get_book_by_id",
+  "test_app/test_book.py::test_get_book_by_id_not_found",
+  "test_app/test_book.py::test_get_books",
+  "test_app/test_book.py::test_update_book",
+  "test_app/test_user.py::test_add_user",
+  "test_app/test_user.py::test_delete_user",
+  "test_app/test_user.py::test_get_user_by_id",
+  "test_app/test_user.py::test_get_user_by_id_not_found",
+  "test_app/test_user.py::test_get_users",
+  "test_app/test_user.py::test_update_user"
+]
